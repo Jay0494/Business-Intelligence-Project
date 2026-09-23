@@ -938,12 +938,12 @@ A key principle throughout the project was separating **measured evidence from i
 * Stockout units increased materially year-on-year.
 * Customer contribution margins differed materially by segment.
 
-## Potential Explanations
+## Data-driven Explanations
 
-* Pricing may not adequately cover product economics.
-* Product costs may be constraining contribution.
-* Certain promotions may sacrifice too much margin.
-* Product quality may contribute to Electronics returns.
+* Pricing does not adequately cover product economics.
+* Product costs is constraining contribution.
+* Certain promotions sacrifice too much margin.
+* Product quality contributes to Electronics returns.
 * Fulfilment allocation may not be optimal.
 
 ## Further Testing Required
@@ -1017,13 +1017,12 @@ This distinction ensures that **correlation is not presented as causation**.
 ├── analysis/
 │   └── exploratory-analysis/
 │
-├── screenshots/
 │   └── dashboard/
 │
 └── README.md
 ```
 
-> Update the structure above to match the actual GitHub repository before publishing.
+
 
 ---
 
