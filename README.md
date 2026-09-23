@@ -1031,7 +1031,7 @@ This distinction ensures that **correlation is not presented as causation**.
 
 The completed Power BI report is available here:
 
-**[Explore the Interactive Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNmM4MzVjMzctYjVlYi00OGMzLTlhZGMtMWZjMGE4N2ZhNDZhIiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlCJ9](https://app.powerbi.com/view?r=eyJrIjoiNmM4MzVjMzctYjVlYi00OGMzLTlhZGMtMWZjMGE4N2ZhNDZhIiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9))**
+**[Explore the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmM4MzVjMzctYjVlYi00OGMzLTlhZGMtMWZjMGE4N2ZhNDZhIiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9)**
 
 The dashboard allows interactive investigation of:
 
